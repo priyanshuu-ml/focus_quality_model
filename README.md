@@ -25,8 +25,7 @@ This machine learning project predicts **task completion quality** based on pers
 * XGBoost
 * Matplotlib
 * ---
-## 🔗 Connect with Me
-If you found this project interesting, let's connect on LinkedIn!
+
 
 ---
 ## 🔗 Connect with Me
